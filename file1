@@ -2,3 +2,19 @@ for i in `cat 123`
 do
 operatons
 done
+
+
+
+for i in `cat 123`
+do
+operatons
+done
+
+
+
+
+
+for i in `cat 123`
+do
+operatons
+done
