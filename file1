@@ -3,18 +3,4 @@ do
 operatons
 done
 
-
-
-for i in `cat 123`
-do
-operatons
-done
-
-
-
-
-
-for i in `cat 123`
-do
-operatons
-done
+Updating on the feature branch
