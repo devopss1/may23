@@ -1,9 +1,0 @@
-for i in `cat 123`
-do
-operatons
-done
-<<<<<<< HEAD
-
-Updating on the feature branch
-=======
->>>>>>> parent of d22cf42... version 2
